@@ -1,6 +1,6 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
-## Seu Nome:
+## Seu Nome: Matheus Pretti de Oliva
 
 ## Visão Geral do Projeto
 
